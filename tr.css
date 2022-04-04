@@ -1,0 +1,52 @@
+
+.par0 {
+    border-style: solid;
+    width: 100px;
+   }
+
+.par1 {
+    border-style: solid;
+    border-bottom: dashed;
+    border-left-color: red;
+    width: 200px;
+    height: 100px;
+    border-top-width: 5px;
+    margin-bottom: -10px;
+}
+
+.par2 {
+    border: red solid 2px;
+    border-top-color: blueviolet;
+    width: 250px;
+    padding: 0px;
+    margin-top: -10px;
+}
+
+.div1{
+    text-align: center;
+    
+}
+
+.par3 {
+    background-image: url('./img/but1.jpg');
+}
+
+.div2 {
+    border-style: solid;
+    border-width: 2px;
+    background-image: url('./img/2832655241323473585.jpeg') ; 
+     background-repeat: repeat-x;
+    width: 700px; 
+}
+
+.div3 {
+    border-style: solid;
+    background-image: url('./img/2832655241323473585.jpeg');
+    background-repeat: no-repeat;
+    background-position: center center;
+     }
+
+.div4 {
+   font-size: 350px;
+   
+}
